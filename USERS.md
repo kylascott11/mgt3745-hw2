@@ -35,7 +35,7 @@
 > Two statements. Format: When I [situation], I want to [motivation], so I can [outcome].
 > A statement naming a product or feature has skipped the job and jumped to a solution.
 
-**Job 1:** When I ..., I want to ..., so I can ...
+**Job 1:** When I am around coworkers who are more experienced than me, I want to be able to contribute to conversations about flying, so I can feel like I belong at the flight school.
 
 **Job 2:** When I ..., I want to ..., so I can ...
 
