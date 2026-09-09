@@ -29,7 +29,7 @@
 |---|---------|-----------|----------------------|
 | 1 |Anonymous Discussion Board| Attractive          | Both interviews compared themselves to others, while neither person mentioned having access to other people's experiences that could reassure them that they weren't alone.                     |
 | 2 |Editable Progress Markers|Attractive|Profile A viewed passing his first check ride as proof that he was capable, suggesting that milestones users set themselves could help them recognize their own progress.                     |
-| 3 |         |           |                      |
+| 3 |Celebration/Encouragement Notifications|Indifferent           | Profile B already reminds herself that she was accepted, suggesting additional generic reassurance may not resolve the underlying comparison. Profile A's Flight School posts Instagram stories when students pass check-rides and get their licenses, so addition celebration notifications might not contribute much.                   |
 | 4 |         |           |                      |
 | 5 |         |           |                      |
 | 6 |         |           |                      |
