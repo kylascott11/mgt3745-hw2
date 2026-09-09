@@ -50,6 +50,8 @@
 > Who this is for. Point back to the profiles in USERS.md rather than repeating them.
 
 *The program is designed for users experiencing feelings of being less qualified, behind, or out of place in a changing, new, or unfamiliar environments.*
+- *[Profile A](USERS.md#profile-a)*
+- *[Profile B](USERS.md#profile-b)*
 
 ---
 
