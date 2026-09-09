@@ -49,7 +49,7 @@
 
 > Who this is for. Point back to the profiles in USERS.md rather than repeating them.
 
-*(your users here)*
+*The program is designed for users experiencing feelings of being less qualified, behind, or out of place in a changing, new, or unfamiliar environments.*
 
 ---
 
