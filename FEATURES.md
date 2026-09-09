@@ -41,7 +41,7 @@
 
 > One paragraph. The job: who, in what situation, wanting what.
 
-*(your context here)*
+*People entering new or unfamiliar environments may experience imposter feelings when their experiences differ from those of the people around them. They may use coworkers, classmates, or peers as benchmarks for whether they are qualified or whether their experience is normal. These people want to contribute to the extent of their peers and want to feel reassured in these spaces.These people want to understand what to expect in their environment, recognize their own progress, and access relevant resources so they can feel more capable, confident, and accepted in their environment.*
 
 ---
 
