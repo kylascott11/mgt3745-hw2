@@ -27,7 +27,7 @@
 
 | # | Feature | Kano class | Reason from research |
 |---|---------|-----------|----------------------|
-| 1 |         |           |                      |
+| 1 |Anonymous Discussion Board| Attractive          | Both interviews compared themselves to others, while neither person mentioned having access to other people's experiences that could reassure them that they weren't alone.                     |
 | 2 |         |           |                      |
 | 3 |         |           |                      |
 | 4 |         |           |                      |
