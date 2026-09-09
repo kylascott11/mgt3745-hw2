@@ -27,10 +27,10 @@
 
 | # | Feature | Kano class | Reason from research |
 |---|---------|-----------|----------------------|
-| 1 |Anonymous Discussion Board| Attractive          | Both interviews compared themselves to others, while neither person mentioned having access to other people's experiences that could reassure them that they weren't alone.                     |
+| 1 |Anonymous Discussion Board| Attractive          | Both interviews compared themselves to others, while neither person mentioned having access to other people's experiences that could reassure them that they weren't alone. An anonymous space could provide unexpected reassurance by allowing users to hear directly from people who have experienced similar situations.                   |
 | 2 |Editable Progress Markers|Performance|Profile A viewed passing his first check ride as proof that he was capable, suggesting that milestones users set themselves could help them recognize their own progress.                     |
 | 3 |Celebration/Encouragement Notifications|Indifferent           | Profile B already reminds herself that she was accepted, suggesting additional generic reassurance may not resolve the underlying comparison. Profile A's Flight School posts Instagram stories when students pass check-rides and get their licenses, so addition celebration notifications might not contribute much.                   |
-| 4 |         |           |                      |
+| 4 |Personalized Environment expectations        |   Attractive        |   Both profiles felt insecure when their experiences differed from those around them. Profile A compared his flight experience to more experienced coworkers, while Profile B compared her social experience to her roommate and floormates. Providing expectations pulled from existing, reliable resources could give users an objective benchmark instead of relying on the people around them to determine what is normal.                  |
 | 5 |         |           |                      |
 | 6 |         |           |                      |
 
