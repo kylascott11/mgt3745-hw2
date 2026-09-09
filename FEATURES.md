@@ -1,7 +1,7 @@
 # FEATURES.md
 
-**Name:**
-**Date:**
+**Name:** Kyla Scott
+**Date:** 9/9/2026
 **Assignment:** HW2, MGT 3745 O
 
 > Replace every instruction block with your own writing. Delete instructions as you go.
@@ -23,7 +23,7 @@
 > Indifferent, or Reverse, with a one-line reason drawn from your research.
 > An honest "Indifferent" is worth more than a flattering "Attractive."
 
-**Classification date:**
+**Classification date:** 9/9/2026
 
 | # | Feature | Kano class | Reason from research |
 |---|---------|-----------|----------------------|
@@ -31,8 +31,8 @@
 | 2 |Editable Progress Markers|Attractive|Profile A viewed passing his first check ride as proof that he was capable, suggesting that milestones users set themselves could help them recognize their own progress.                     |
 | 3 |Celebration/Encouragement Notifications|Indifferent           | Profile B already reminds herself that she was accepted, suggesting additional generic reassurance may not resolve the underlying comparison. Profile A's Flight School posts Instagram stories when students pass check-rides and get their licenses, so addition celebration notifications might not contribute much.                   |
 | 4 |Personalized Environment Expectations        |   Attractive        |   Both profiles felt insecure when their experiences differed from those around them. Profile A compared his flight experience to more experienced coworkers, while Profile B compared her social experience to her roommate and floormates. Providing expectations pulled from existing, reliable resources could give users an objective benchmark instead of relying on the people around them to determine what is normal.                  |
-| 5 |Performance Benchmarking         |    Reverse       |  Depending no the person, this could be an attractive feature. However, based on my interviews both Profile A and Profile B  used people around them as benchmarks for whether they were doing well, and both experienced insecurity when they perceived themselves as falling short. Even if I choose the right peer set for them to compare to, providing additional rankings could reinforce the imposter syndrome if they're falling short of the applicable peer set. |
-| 6 |         |           |                      |
+| 5 |Performance Benchmarking         |    Reverse       |  Depending no the person, this could be an attractive feature. However, based on my interviews, both Profile A and Profile B  used people around them as benchmarks for whether they were doing well, and both experienced insecurity when they perceived themselves as falling short. Even if I choose the right peer set for them to compare to, providing additional rankings could reinforce the imposter syndrome if they're falling short of the applicable peer set. |
+| 6 | Journaling Prompts        |   Indifferent        |  Neither interviewee mentioned reflection or journaling as something they currently use to address these feelings.                    |
 
 ---
 
