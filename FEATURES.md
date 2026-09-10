@@ -27,10 +27,10 @@
 
 | # | Feature | Kano class | Reason from research |
 |---|---------|-----------|----------------------|
-| 1 |Anonymous Discussion Board| Attractive          | Both interviews compared themselves to others, while neither person mentioned having access to other people's experiences that could reassure them that they weren't alone. An anonymous space could provide unexpected reassurance by allowing users to hear directly from people who have experienced similar situations.                  |
+| 1 |Anonymous Discussion Board| Attractive          | Both interviews compared themselves to others, while neither person mentioned having access to other people's experiences that could reassure them that they weren't alone. An anonymous space would allow users to hear directly from people who have experienced similar situations, providing them more realistic expectations.                  |
 | 2 |Editable Progress Markers|Attractive|Profile A identified passing his first check ride as an important milestone that would prove to himself he is capable of becoming a pilot. Seeing progress toward meaningful milestones could help him recognize his development rather than focusing only on how far ahead others are.                  |
 | 3 |Celebration/Encouragement Notifications|Indifferent           | Profile B already reminds herself that she was accepted, suggesting additional generic reassurance may not resolve the underlying comparison. Profile A's Flight School posts Instagram stories when students pass check-rides and get their licenses, so additional celebration notifications might not contribute much.                   |
-| 4 |Personalized Environment Expectations        |   Attractive        |   Both profiles felt insecure when their experiences differed from those around them. Profile A compared his flight experience to more experienced coworkers, while Profile B compared her social experience to her roommate and floormates. Providing expectations pulled from existing, reliable resources could give users an objective benchmark instead of relying on the people around them to determine what is normal.                  |
+| 4 |Personalized Environment Expectations        |   Attractive        |   Both profiles felt insecure when their experiences differed from those around them. Profile A compared his flight experience to more experienced coworkers, while Profile B compared her social experience to her roommate and floormates. Providing expectations pulled from existing, reliable resources could give users a reference point based on environmental expectations instead of relying on the people around them to determine what is normal.                  |
 | 5 |Performance Benchmarking         |    Reverse       |  Depending on the person, this could be an attractive feature. However, based on my interviews, both Profile A and Profile B  used people around them as benchmarks for whether they were doing well, and both experienced insecurity when they perceived themselves as falling short. Even if I choose the right peer set for them to compare to, providing additional rankings could reinforce the imposter syndrome if they're falling short of the applicable peer set. |
 | 6 | Resources Page        |   Attractive        |  Profile A is studying beyond what is required to become more knowledgeable and contribute to conversations with coworkers. Profile B seeks out friends with similar experiences for support, suggesting that personalized resources could provide useful information or guidance beyond what they currently have access to.                  |
 
@@ -41,7 +41,7 @@
 
 > One paragraph. The job: who, in what situation, wanting what.
 
-*People entering new or unfamiliar environments may have difficulty determining whether they are doing enough to meet their own expectations and the expectations of their environment. They may compare themselves to people around them without knowing whether those people are appropriate benchmarks or whether their own experience is within the expected range. The program helps users identify the expectations of their environment, evaluate their own progress toward those expectations, and access relevant resources so they can better determine where they currently stand.*
+*People entering new or unfamiliar environments may have difficulty determining whether they are doing enough to meet their own expectations and the expectations of their environment. They may compare themselves to people around them without knowing whether those people are appropriate benchmarks or whether their own experience is within the expected range. The program helps users identify the expectations of their environment, track their own progress toward those expectations, and access relevant resources so they can better determine where they currently stand.*
 
 ---
 
@@ -49,7 +49,7 @@
 
 > Who this is for. Point back to the profiles in USERS.md rather than repeating them.
 
-*The program is designed for users experiencing feelings of being less qualified, behind, or out of place in a changing, new, or unfamiliar environments.*
+*The program is designed for users experiencing feelings of being less qualified, behind, or out of place in a changing, new, or unfamiliar environment.*
 - [Profile A](USERS.md#profile-a)
 - [Profile B](USERS.md#profile-b)
 
@@ -59,7 +59,7 @@
 
 **This does:**
 - Identify expectations for their current environment.
-- Record and evaluate their progress toward those expectations.
+- Record and display their progress toward those expectations.
 - Access resources relevant to their current expectations or areas of improvement.
 - View experiences from other people in similar situations without using those experiences as performance standards.
 
@@ -87,22 +87,22 @@
 - *4. The system shall use the selected environment and situation to determine which expectations and resources to display.*
 
 ***2:** Display Environment Expectations*
-- *1. When an environment is identified, relevant expectations should display for that environment when reliable source information is available.*
-- *2. The system should use information from sources like official websites, syllabi, handbooks, training materials, or other relevant documents.*
+- *1. When an environment is identified, the system shall display expectations obtained from an identified external source or uploaded user materials.*
+- *2. The system shall use information from identified external sources such as official websites, syllabi, handbooks, training materials, or user-uploaded documents.*
 - *3. The system shall identify the source of each expectation and allow the user to access the original source when available.*
-- *4. The user should be able to upload their own materials as external sources to set expectations.*
+- *4. The system shall allow the user to upload materials containing information about expectations for their environment.*
 - *5. The system shall present expectations based on the user's current environment or stage rather than the performance of a specific individual.*
 - *6. If reliable information about an expectation is not available, it should indicate that the expectation could not be established.*
 
 ***3:** Track personal progress*
-- *1. When expectations are displayed, the user can create personal progress markers related to those expectations.*
-- *2. Each progress marker can include a description and status.*
-- *3. The user can update the status of a progress marker.*
+- *1. When expectations are displayed, the system shall allow the user to create personal progress markers related to those expectations.*
+- *2. Each progress marker shall include a description and a user-selected status.*
+- *3. The user shall be allowed update the status of a progress marker.*
 - *4. The system shall display completed and incomplete progress markers separately.*
 - *5. The system shall not compare the user's progress markers with another user's progress.*
 
 ***4:** Provide personalized resources*
-- *1. When a user identifies an expectation they do not understand or have not yet met, the program should display relevant resources when available.*
+- *1. When a user identifies an expectation they do not understand or have not yet met, the system shall display resources associated with that expectation when such resources exist.*
 - *2. Resources may include educational materials, institutional information, guides, or other materials relevant to the user's environment.*
 - *3. The system shall identify the source of each external resource.*
 - *4. The system shall allow the user to access the original resource when available.*
@@ -185,7 +185,7 @@
 > would they still have to ask you before they could start?
 > Every spec has gaps. Claiming none scores zero.
 
-*If I handed this off tomorrow, competent stranger would still need to know what specific sources the program should use to establish environment expectations and how those sources should be selected when multiple sources are available. They would also need to know how the program should determine which anonymous experiences and personalized resources are relevant to a user's situation.*
+*If I handed this off tomorrow, a competent stranger would still need to know what specific sources the program should use to establish environment expectations and how those sources should be selected when multiple sources are available. They would also need to know how the program should determine which anonymous experiences and personalized resources are relevant to a user's situation.*
 
 ---
 
