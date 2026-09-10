@@ -106,11 +106,13 @@
 - *3. The system shall identify the source of each external resource.*
 - *4. The system shall allow the user to access the original resource when available.*
 - *5. If no relevant resource is found, the platform should indicate that no matching resource was found.*
+
 ***5:** Provide anonymous experiences*
 - *1. When a user chooses to view other experiences, the platform should display anonymous experiences from users in relevant situations when available.*
 - *2. The system shall organize experiences by relevant environment or situation based on the user's selection of environment.*
 - *3. The system shall not present another user's experience as evidence that the current user is meeting or failing to meet expectations.*
 - *4. The user shall be able to choose whether to view other users' experiences.*
+
 ***6:** Benchmarking*
 - *1. The program shall not display leaderboards or rankings of users.*
 - *2. The program shall not calculate a user's rank relative to other users.*
