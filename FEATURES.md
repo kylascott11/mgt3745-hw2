@@ -38,17 +38,17 @@
 ## 3. Scope
 
 **This does:**
-- Identify expectations for their current environment.
-- Record and display their progress toward those expectations.
-- Access resources relevant to their current expectations or areas of improvement.
-- View experiences from other people in similar situations without using those experiences as performance standards.
+- *Identify expectations for their current environment.*
+- *Record and display their progress toward those expectations.*
+- *Access resources relevant to their current expectations or areas of improvement.*
+- *View experiences from other people in similar situations without using those experiences as performance standards.*
 
 **This deliberately does not do:**
-- Determine whether a user is successful or unsuccessful.
-- Rank users against other individuals.
-- Tell users how they should feel about their performance.
-- Guarantee that users will feel more confident or that feelings of imposter syndrome will disappear.
-- Use generic encouragement as evidence that a user is meeting expectations.
+- *Determine whether a user is successful or unsuccessful.*
+- *Rank users against other individuals.*
+- *Tell users how they should feel about their performance.*
+- *Guarantee that users will feel more confident or that feelings of imposter syndrome will disappear.*
+- *Use generic encouragement as evidence that a user is meeting expectations.*
 
 ---
 
