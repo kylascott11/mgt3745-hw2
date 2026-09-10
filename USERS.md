@@ -4,19 +4,9 @@
 **Date:** 9/6/2026
 **Assignment:** HW2, MGT 3745 O
 
-> Companion file: `FEATURES.md`. Complete this file first; the spec depends on it.
-> Both files are Context Scaffold artifacts you carry forward all semester. They are
-> also context engineering artifacts: the same document grounds a human developer and
-> an AI agent.
-
 ---
 
 ## Interview Synthesis
-`part of Research Integrity, 25 pts total`
-
-> Two interviews, roughly 15 minutes each, with real people, about past behavior.
-> Synthesis rather than transcripts. Report what surprised you: surprise is the signal
-> that you learned something instead of confirming something.
 
 ### Interview 1
 - ***Who (role or relationship, no full name needed):** For my first interview, I interviewed a first-year student at Dragonfly Aviation, a flight school in Winder, GA. He is aspiring to be a commercial pilot and is currently working towards his private pilot's license (PPL) while also working at the front desk of the school.*
@@ -32,9 +22,6 @@
 
 ## Job Statements
 
-> Two statements. Format: When I [situation], I want to [motivation], so I can [outcome].
-> A statement naming a product or feature has skipped the job and jumped to a solution.
-
 ***Job 1:** When I am around coworkers who are more experienced than me, I want to be able to contribute to conversations about flying, so I can feel like I belong at the flight school.*
 
 ***Job 2:** When I feel out of place in a new environment, I want to know that my experience is okay even if it is different from others' experiences, so I can feel confident in my own experience.
@@ -42,11 +29,6 @@
 ---
 
 ## User Profiles
-`20 pts`
-
-> Two profiles built from evidence. Mark every claim as **[known]** (someone told you)
-> or **[assumed]** (you filled it in). Honest marking scores well. Uniform confidence
-> after two interviews is not credible.
 
 ### Profile A
 - ***Situation:** **[known]** Profile A is at work around coworkers who have more flight experience than him. **[known]** He feels less qualified because he has not yet earned his PPL and cannot contribute to conversations about flying to the same extent as his coworkers.*
