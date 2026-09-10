@@ -84,6 +84,7 @@
 *1. When a user begins using the program, the user needs to identify the environment and situation they want to evaluate.
 2. The user can then identify an environment(s) such as school, work, training, or another relevant environment.
 3. The system shall use the user's selected environment and situation to determine which expectations and resources are relevant.*
+
 ***2:** Display Environment Expectations*
 *1. When an environment is identified, relevant expectations should display for that environment when reliable source information is available.
 2. The system should use information from sources like official websites, syllabi, handbooks, training materials, or other relevant documents.
@@ -91,12 +92,14 @@
 4. The user should be able to upload their own materials as external sources to set expectations.
 5. The system shall present expectations based on the user's current environment or stage rather than the performance of a specific individual.
 6. If reliable information about an expectation is not available, it should indicate that the expectation could not be established.*
+
 ***3:** Track personal progress*
-*1. When expectations are displayed, the user can create personal progress markers related to those expectations.
-2. Each progress marker can include a description and status.
-3. The user can update the status of a progress marker.
-4. The system shall display completed and incomplete progress markers separately.
-5. The system shall not compare the user's progress markers with another user's progress.*
+- *1. When expectations are displayed, the user can create personal progress markers related to those expectations.
+- 2. Each progress marker can include a description and status.
+- 3. The user can update the status of a progress marker.
+- 4. The system shall display completed and incomplete progress markers separately.
+- 5. The system shall not compare the user's progress markers with another user's progress.*
+
 ***4:** Provide personalized resources*
 *1. When a user identifies an expectation they do not understand or have not yet met, the program should display relevant resources when available.
 2. Resources may include educational materials, institutional information, guides, or other materials relevant to the user's environment.
