@@ -24,7 +24,7 @@
 
 ***Job 1:** When I am around coworkers who are more experienced than me, I want to be able to contribute to conversations about flying, so I can feel like I belong at the flight school.*
 
-***Job 2:** When I feel out of place in a new environment, I want to know that my experience is okay even if it is different from others' experiences, so I can feel confident in my own experience.
+***Job 2:** When I feel out of place in a new environment, I want to know that my experience is okay even if it is different from others' experiences, so I can feel confident in my own experience.*
 
 ---
 
