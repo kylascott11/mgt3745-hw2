@@ -81,9 +81,10 @@
 > Write statements a stranger could follow without asking you what you meant.
 
 ***1:** Identify the user's situation*
-- *1. When a user begins using the program, the user needs to identify the environment and situation they want to evaluate.*
-- *2. The user can then identify an environment(s) such as school, work, training, or another relevant environment.*
-- *3. The system shall use the user's selected environment and situation to determine which expectations and resources are relevant.*
+- *1. When a user begins using the program, the system shall prompt the user to identify the environment and situation they want to evaluate.*
+- *2. The system shall allow the user to select an environment such as school, work, training, or another relevant environment.*
+- *3. The system shall allow the user to provide additional information about their current stage or situation within that environment.*
+- *4. The system shall use the selected environment and situation to determine which expectations and resources to display.*
 
 ***2:** Display Environment Expectations*
 - *1. When an environment is identified, relevant expectations should display for that environment when reliable source information is available.*
