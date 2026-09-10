@@ -41,7 +41,7 @@
 
 > One paragraph. The job: who, in what situation, wanting what.
 
-*People entering new or unfamiliar environments may experience imposter feelings when their experiences differ from those of the people around them. They may use coworkers, classmates, or peers as benchmarks for whether they are qualified or whether their experience is normal. These people want to contribute to the extent of their peers and want to feel reassured in these spaces.These people want to understand what to expect in their environment, recognize their own progress, and access relevant resources so they can feel more capable, confident, and accepted in their environment.*
+*People entering new or unfamiliar environments may have difficulty determining whether they are doing enough to meet their own expectations and the expectations of their environment. They may compare themselves to people around them without knowing whether those people are appropriate benchmarks or whether their own experience is within the expected range. The program helps users identify the expectations of their environment, evaluate their own progress toward those expectations, and access relevant resources so they can better determine where they currently stand.*
 
 ---
 
@@ -58,13 +58,17 @@
 ## 3. Scope
 
 **This does:**
--
--
--
+- Identify expectations for their current environment.
+- Record and evaluate their progress toward those expectations.
+- Access resources relevant to their current expectations or areas of improvement.
+- View experiences from other people in similar situations without using those experiences as performance standards.
 
 **This deliberately does not do:**
--
--
+- Determine whether a user is successful or unsuccessful.
+- Rank users against other individuals.
+- Tell users how they should feel about their performance.
+- Guarantee that users will feel more confident or that feelings of imposter syndrome will disappear.
+- Use generic encouragement as evidence that a user is meeting expectations.
 
 > Non-goals are what make the rest of this document checkable. A spec with no
 > non-goals cannot be violated, which means it cannot govern anything.
@@ -76,7 +80,39 @@
 > What happens, in what order, under what conditions. The bulk of the document.
 > Write statements a stranger could follow without asking you what you meant.
 
-*(your behavior spec here)*
+***1:** Identify the user's situation*
+*1. When a user begins using the program, the user needs to identify the environment and situation they want to evaluate.
+2. The user can then identify an environment(s) such as school, work, training, or another relevant environment.
+3. The system shall use the user's selected environment and situation to determine which expectations and resources are relevant.*
+***2:** Display Environment Expectations*
+*1. When an environment is identified, relevant expectations should display for that environment when reliable source information is available.
+2. The system should use information from sources like official websites, syllabi, handbooks, training materials, or other relevant documents.
+3. The system shall identify the source of each expectation and allow the user to access the original source when available.
+4. The user should be able to upload their own materials as external sources to set expectations.
+5. The system shall present expectations based on the user's current environment or stage rather than the performance of a specific individual.
+6. If reliable information about an expectation is not available, it should indicate that the expectation could not be established.*
+***3:** Track personal progress*
+*1. When expectations are displayed, the user can create personal progress markers related to those expectations.
+2. Each progress marker can include a description and status.
+3. The user can update the status of a progress marker.
+4. The system shall display completed and incomplete progress markers separately.
+5. The system shall not compare the user's progress markers with another user's progress.*
+***4:** Provide personalized resources*
+*1. When a user identifies an expectation they do not understand or have not yet met, the program should display relevant resources when available.
+2. Resources may include educational materials, institutional information, guides, or other materials relevant to the user's environment.
+3. The system shall identify the source of each external resource.
+4. The system shall allow the user to access the original resource when available.
+5. If no relevant resource is found, the platform should indicate that no matching resource was found.*
+***5:** Provide anonymous experiences*
+*1. When a user chooses to view other experiences, the platform should display anonymous experiences from users in relevant situations when available.
+2. The system shall organize experiences by relevant environment or situation based on the user's selection of environment. 
+3. The system shall not present another user's experience as evidence that the current user is meeting or failing to meet expectations.
+4. The user shall be able to choose whether to view other users' experiences.*
+***6:** Benchmarking*
+1. *The program shall not display leaderboards or rankings of users.*
+2. *The program shall not calculate a user's rank relative to other users.*
+3. *When presenting information about other people's experiences, the program shall emphasize differences in experiences rather than rank users by performance.*
+4. *If benchmark information is provided, it shall describe environmental expectations or requirements rather than individual user rankings.*
 
 ---
 
@@ -84,7 +120,7 @@
 
 > What must hold regardless of design: platform, data, privacy, timing, budget.
 
-*(your constraints here)*
+*The program will use reliable information when establishing expectations for an environment and will identify the source of each external expectation or resource when available. The program should distinguish between information obtained from an external source and information generated by the program. Users will not be required to identify themselves, and anonymous experiences will not display personally identifying information to other users. The program will not diagnose users with imposter syndrome or other health conditions and will not present unsupported information as an established expectation. The program shall not require users to compare their performance with another individual and shall use expectations for the user's environment rather than individual peer performance as the primary basis for evaluating progress.*
 
 ---
 
@@ -101,9 +137,38 @@
 > Vague: "The app should be fast."
 > EARS:  "WHEN an entry is saved, THE SYSTEM SHALL display it within 2 seconds."
 
-- [ ] WHEN ..., THE SYSTEM SHALL ...
-- [ ] IF ..., THEN THE SYSTEM SHALL ...
-- [ ] 
+
+
+- [ ] WHEN a user begins using the program, THE SYSTEM SHALL allow the user to identify the environment and situation they want to evaluate.
+- [ ] WHEN a user selects an environment, THE SYSTEM SHALL use that environment to determine which expectations and resources are relevant.
+- [ ] WHEN a user selects a different environment, THE SYSTEM SHALL update the expectations and resources shown to match the new environment.
+- [ ] WHEN a user identifies an environment, THE SYSTEM SHALL display relevant expectations when reliable source information is available.
+- [ ] WHEN an expectation is displayed, THE SYSTEM SHALL identify the source from which the expectation was obtained.
+- [ ] WHEN a user selects an available source, THE SYSTEM SHALL provide access to the original source.
+- [ ] WHERE the user uploads an external resource, THE SYSTEM SHALL analyze the resource to identify relevant expectations for the user's environment.
+- [ ] WHEN an expectation is based on the user's current stage or situation, THE SYSTEM SHALL display expectations relevant to that stage or situation.
+- [ ] IF reliable information about an expectation is unavailable, THEN THE SYSTEM SHALL indicate that the expectation could not be established.
+- [ ] THE SYSTEM SHALL NOT present an unsupported claim as an established expectation.
+- [ ] WHEN a user creates a progress marker, THE SYSTEM SHALL display the marker in the user's progress list.
+- [ ] WHEN a user assigns a status to a progress marker, THE SYSTEM SHALL display that status with the marker.
+- [ ] WHEN a user updates a progress marker, THE SYSTEM SHALL display the updated information.
+- [ ] WHEN a user marks a progress marker as complete, THE SYSTEM SHALL display it as completed.
+- [ ] WHEN a user views their progress, THE SYSTEM SHALL display their progress without ranking it against another user's progress.
+- [ ] WHEN a user removes a progress marker, THE SYSTEM SHALL remove it from the user's progress list.
+- [ ] WHEN a user identifies an expectation they do not understand or have not yet met, THE SYSTEM SHALL display relevant resources when available.
+- [ ] WHEN an external resource is displayed, THE SYSTEM SHALL identify its source.
+- [ ] WHEN a user selects an available external resource, THE SYSTEM SHALL provide access to the original resource.
+- [ ] IF no relevant resource is found, THEN THE SYSTEM SHALL indicate that no matching resource was found.
+- [ ] WHEN a user's environment or situation changes, THE SYSTEM SHALL update the resources displayed to reflect the new situation.
+- [ ] WHEN a user chooses to view other experiences, THE SYSTEM SHALL display relevant anonymous experiences when available.
+- [ ] WHEN a user submits an experience anonymously, THE SYSTEM SHALL not display the user's name with that experience.
+- [ ] WHEN anonymous experiences are displayed, THE SYSTEM SHALL identify the situation or environment associated with each experience when that information is available.
+- [ ] IF no relevant anonymous experiences are available, THEN THE SYSTEM SHALL indicate that no matching experiences are currently available.
+- [ ] THE SYSTEM SHALL NOT display a leaderboard of users.
+- [ ] THE SYSTEM SHALL NOT assign a user a performance rank based on another user's performance.
+- [ ] WHEN the program evaluates a user's progress, THE SYSTEM SHALL use expectations for the user's environment rather than an individual peer's performance as the primary benchmark.
+- [ ] WHEN a user views general expectations or resources, THE SYSTEM SHALL not require the user to provide identifying information.
+- [ ] WHEN a user submits an anonymous experience, THE SYSTEM SHALL not display personally identifying information with the experience.
 
 ---
 
@@ -114,7 +179,7 @@
 > would they still have to ask you before they could start?
 > Every spec has gaps. Claiming none scores zero.
 
-*(your handoff test here)*
+*If I handed this off tomorrow, competent stranger would still need to know what specific sources the program should use to establish environment expectations and how those sources should be selected when multiple sources are available. They would also need to know how the program should determine which anonymous experiences and personalized resources are relevant to a user's situation.*
 
 ---
 
@@ -122,4 +187,4 @@
 
 > What you used AI for on this assignment, if anything. Write "none" if you did not use any.
 
-*(your note here)*
+*I used AI to help teach me how to reference my `USERS.md` file in `FEATURES.md`. Additionally, I submitted my acceptance and behavior bullet points to AI to identify gaps that I should expand on and help organize the order of my behavior. I also inputted my interview notes into AI to help synthesize the information into a more logical format.*
