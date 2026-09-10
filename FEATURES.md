@@ -29,9 +29,9 @@
 |---|---------|-----------|----------------------|
 | 1 |Anonymous Discussion Board| Attractive          | Both interviews compared themselves to others, while neither person mentioned having access to other people's experiences that could reassure them that they weren't alone. An anonymous space could provide unexpected reassurance by allowing users to hear directly from people who have experienced similar situations.                  |
 | 2 |Editable Progress Markers|Attractive|Profile A identified passing his first check ride as an important milestone that would prove to himself he is capable of becoming a pilot. Seeing progress toward meaningful milestones could help him recognize his development rather than focusing only on how far ahead others are.                  |
-| 3 |Celebration/Encouragement Notifications|Indifferent           | Profile B already reminds herself that she was accepted, suggesting additional generic reassurance may not resolve the underlying comparison. Profile A's Flight School posts Instagram stories when students pass check-rides and get their licenses, so addition celebration notifications might not contribute much.                   |
+| 3 |Celebration/Encouragement Notifications|Indifferent           | Profile B already reminds herself that she was accepted, suggesting additional generic reassurance may not resolve the underlying comparison. Profile A's Flight School posts Instagram stories when students pass check-rides and get their licenses, so additional celebration notifications might not contribute much.                   |
 | 4 |Personalized Environment Expectations        |   Attractive        |   Both profiles felt insecure when their experiences differed from those around them. Profile A compared his flight experience to more experienced coworkers, while Profile B compared her social experience to her roommate and floormates. Providing expectations pulled from existing, reliable resources could give users an objective benchmark instead of relying on the people around them to determine what is normal.                  |
-| 5 |Performance Benchmarking         |    Reverse       |  Depending no the person, this could be an attractive feature. However, based on my interviews, both Profile A and Profile B  used people around them as benchmarks for whether they were doing well, and both experienced insecurity when they perceived themselves as falling short. Even if I choose the right peer set for them to compare to, providing additional rankings could reinforce the imposter syndrome if they're falling short of the applicable peer set. |
+| 5 |Performance Benchmarking         |    Reverse       |  Depending on the person, this could be an attractive feature. However, based on my interviews, both Profile A and Profile B  used people around them as benchmarks for whether they were doing well, and both experienced insecurity when they perceived themselves as falling short. Even if I choose the right peer set for them to compare to, providing additional rankings could reinforce the imposter syndrome if they're falling short of the applicable peer set. |
 | 6 | Resources Page        |   Attractive        |  Profile A is studying beyond what is required to become more knowledgeable and contribute to conversations with coworkers. Profile B seeks out friends with similar experiences for support, suggesting that personalized resources could provide useful information or guidance beyond what they currently have access to.                  |
 
 ---
@@ -140,7 +140,7 @@
 
 
 - [ ] WHEN a user begins using the program, THE SYSTEM SHALL allow the user to identify the environment and situation they want to evaluate.
-- [ ] WHEN a user selects an environment, THE SYSTEM SHALL use that environment to determine which expectations and resources are relevant.
+- [ ] WHEN a user selects an environment, THE SYSTEM SHALL display expectations and resources associated with that environment.
 - [ ] WHEN a user selects a different environment, THE SYSTEM SHALL update the expectations and resources shown to match the new environment.
 - [ ] WHEN a user identifies an environment, THE SYSTEM SHALL display relevant expectations when reliable source information is available.
 - [ ] WHEN an expectation is displayed, THE SYSTEM SHALL identify the source from which the expectation was obtained.
@@ -166,7 +166,6 @@
 - [ ] IF no relevant anonymous experiences are available, THEN THE SYSTEM SHALL indicate that no matching experiences are currently available.
 - [ ] THE SYSTEM SHALL NOT display a leaderboard of users.
 - [ ] THE SYSTEM SHALL NOT assign a user a performance rank based on another user's performance.
-- [ ] WHEN the program evaluates a user's progress, THE SYSTEM SHALL use expectations for the user's environment rather than an individual peer's performance as the primary benchmark.
 - [ ] WHEN a user views general expectations or resources, THE SYSTEM SHALL not require the user to provide identifying information.
 - [ ] WHEN a user submits an anonymous experience, THE SYSTEM SHALL not display personally identifying information with the experience.
 
