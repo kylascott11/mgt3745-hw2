@@ -145,35 +145,36 @@
 
 
 
-- [ ] WHEN a user begins using the program, THE SYSTEM SHALL allow the user to identify the environment and situation they want to evaluate.
-- [ ] WHEN a user selects an environment, THE SYSTEM SHALL display expectations and resources associated with that environment.
-- [ ] WHEN a user selects a different environment, THE SYSTEM SHALL update the expectations and resources shown to match the new environment.
-- [ ] WHEN a user identifies an environment, THE SYSTEM SHALL display relevant expectations when reliable source information is available.
-- [ ] WHEN an expectation is displayed, THE SYSTEM SHALL identify the source from which the expectation was obtained.
-- [ ] WHEN a user selects an available source, THE SYSTEM SHALL provide access to the original source.
-- [ ] WHERE the user uploads an external resource, THE SYSTEM SHALL analyze the resource to identify relevant expectations for the user's environment.
-- [ ] WHEN an expectation is based on the user's current stage or situation, THE SYSTEM SHALL display expectations relevant to that stage or situation.
-- [ ] IF reliable information about an expectation is unavailable, THEN THE SYSTEM SHALL indicate that the expectation could not be established.
-- [ ] THE SYSTEM SHALL NOT present an unsupported claim as an established expectation.
-- [ ] WHEN a user creates a progress marker, THE SYSTEM SHALL display the marker in the user's progress list.
-- [ ] WHEN a user assigns a status to a progress marker, THE SYSTEM SHALL display that status with the marker.
-- [ ] WHEN a user updates a progress marker, THE SYSTEM SHALL display the updated information.
-- [ ] WHEN a user marks a progress marker as complete, THE SYSTEM SHALL display it as completed.
-- [ ] WHEN a user views their progress, THE SYSTEM SHALL display their progress without ranking it against another user's progress.
-- [ ] WHEN a user removes a progress marker, THE SYSTEM SHALL remove it from the user's progress list.
-- [ ] WHEN a user identifies an expectation they do not understand or have not yet met, THE SYSTEM SHALL display relevant resources when available.
-- [ ] WHEN an external resource is displayed, THE SYSTEM SHALL identify its source.
-- [ ] WHEN a user selects an available external resource, THE SYSTEM SHALL provide access to the original resource.
-- [ ] IF no relevant resource is found, THEN THE SYSTEM SHALL indicate that no matching resource was found.
-- [ ] WHEN a user's environment or situation changes, THE SYSTEM SHALL update the resources displayed to reflect the new situation.
-- [ ] WHEN a user chooses to view other experiences, THE SYSTEM SHALL display relevant anonymous experiences when available.
-- [ ] WHEN a user submits an experience anonymously, THE SYSTEM SHALL not display the user's name with that experience.
-- [ ] WHEN anonymous experiences are displayed, THE SYSTEM SHALL identify the situation or environment associated with each experience when that information is available.
-- [ ] IF no relevant anonymous experiences are available, THEN THE SYSTEM SHALL indicate that no matching experiences are currently available.
-- [ ] THE SYSTEM SHALL NOT display a leaderboard of users.
-- [ ] THE SYSTEM SHALL NOT assign a user a performance rank based on another user's performance.
-- [ ] WHEN a user views general expectations or resources, THE SYSTEM SHALL not require the user to provide identifying information.
-- [ ] WHEN a user submits an anonymous experience, THE SYSTEM SHALL not display personally identifying information with the experience.
+- [ ] *WHEN a user begins using the program, THE SYSTEM SHALL prompt the user to identify an environment and situation.*
+- [ ] *WHEN a user selects an environment, THE SYSTEM SHALL allow the user to select or enter their current stage or situation within that environment.*
+- [ ] *WHEN a user provides an environment and situation, THE SYSTEM SHALL use that information to determine which expectations and resources are displayed.*
+- [ ] *WHEN a user changes their selected environment or situation, THE SYSTEM SHALL update the expectations and resources displayed.*
+- [ ] *WHEN a user identifies an environment, THE SYSTEM SHALL display relevant expectations when reliable source information is available.*
+- [ ] *WHEN an expectation is displayed, THE SYSTEM SHALL identify the source from which the expectation was obtained.*
+- [ ] *WHEN a user selects an available source, THE SYSTEM SHALL provide access to the original source.*
+- [ ] *WHERE the user uploads an external resource, THE SYSTEM SHALL analyze the resource to identify relevant expectations for the user's environment.*
+- [ ] *WHEN an expectation is based on the user's current stage or situation, THE SYSTEM SHALL display expectations relevant to that stage or situation.*
+- [ ] *IF reliable information about an expectation is unavailable, THEN THE SYSTEM SHALL indicate that the expectation could not be established.*
+- [ ] *THE SYSTEM SHALL NOT present an unsupported claim as an established expectation.*
+- [ ] *WHEN a user creates a progress marker, THE SYSTEM SHALL display the marker in the user's progress list.*
+- [ ] *WHEN a user assigns a status to a progress marker, THE SYSTEM SHALL display that status with the marker.*
+- [ ] *WHEN a user updates a progress marker, THE SYSTEM SHALL display the updated information.*
+- [ ] *WHEN a user marks a progress marker as complete, THE SYSTEM SHALL display it as completed.*
+- [ ] *WHEN a user views their progress, THE SYSTEM SHALL display their progress without ranking it against another user's progress.*
+- [ ] *WHEN a user removes a progress marker, THE SYSTEM SHALL remove it from the user's progress list.*
+- [ ] *WHEN a user identifies an expectation they do not understand or have not yet met, THE SYSTEM SHALL display relevant resources when available.*
+- [ ] *WHEN an external resource is displayed, THE SYSTEM SHALL identify its source.*
+- [ ] *WHEN a user selects an available external resource, THE SYSTEM SHALL provide access to the original resource.*
+- [ ] *IF no relevant resource is found, THEN THE SYSTEM SHALL indicate that no matching resource was found.*
+- [ ] *WHEN a user's environment or situation changes, THE SYSTEM SHALL update the resources displayed to reflect the new situation.*
+- [ ] *WHEN a user chooses to view other experiences, THE SYSTEM SHALL display relevant anonymous experiences when available.*
+- [ ] *WHEN a user submits an experience anonymously, THE SYSTEM SHALL not display the user's name with that experience.*
+- [ ] *WHEN anonymous experiences are displayed, THE SYSTEM SHALL identify the situation or environment associated with each experience when that information is available.*
+- [ ] *IF no relevant anonymous experiences are available, THEN THE SYSTEM SHALL indicate that no matching experiences are currently available.*
+- [ ] *THE SYSTEM SHALL NOT display a leaderboard of users.*
+- [ ] *THE SYSTEM SHALL NOT assign a user a performance rank based on another user's performance.*
+- [ ] *WHEN a user views general expectations or resources, THE SYSTEM SHALL not require the user to provide identifying information.*
+- [ ] *WHEN a user submits an anonymous experience, THE SYSTEM SHALL not display personally identifying information with the experience.*
 
 ---
 
