@@ -81,41 +81,41 @@
 > Write statements a stranger could follow without asking you what you meant.
 
 ***1:** Identify the user's situation*
-*1. When a user begins using the program, the user needs to identify the environment and situation they want to evaluate.
-2. The user can then identify an environment(s) such as school, work, training, or another relevant environment.
-3. The system shall use the user's selected environment and situation to determine which expectations and resources are relevant.*
+- *1. When a user begins using the program, the user needs to identify the environment and situation they want to evaluate.*
+- *2. The user can then identify an environment(s) such as school, work, training, or another relevant environment.*
+- *3. The system shall use the user's selected environment and situation to determine which expectations and resources are relevant.*
 
 ***2:** Display Environment Expectations*
-*1. When an environment is identified, relevant expectations should display for that environment when reliable source information is available.
-2. The system should use information from sources like official websites, syllabi, handbooks, training materials, or other relevant documents.
-3. The system shall identify the source of each expectation and allow the user to access the original source when available.
-4. The user should be able to upload their own materials as external sources to set expectations.
-5. The system shall present expectations based on the user's current environment or stage rather than the performance of a specific individual.
-6. If reliable information about an expectation is not available, it should indicate that the expectation could not be established.*
+- *1. When an environment is identified, relevant expectations should display for that environment when reliable source information is available.*
+- *2. The system should use information from sources like official websites, syllabi, handbooks, training materials, or other relevant documents.*
+- *3. The system shall identify the source of each expectation and allow the user to access the original source when available.*
+- *4. The user should be able to upload their own materials as external sources to set expectations.*
+- *5. The system shall present expectations based on the user's current environment or stage rather than the performance of a specific individual.*
+- *6. If reliable information about an expectation is not available, it should indicate that the expectation could not be established.*
 
 ***3:** Track personal progress*
-- *1. When expectations are displayed, the user can create personal progress markers related to those expectations.
-- 2. Each progress marker can include a description and status.
-- 3. The user can update the status of a progress marker.
-- 4. The system shall display completed and incomplete progress markers separately.
-- 5. The system shall not compare the user's progress markers with another user's progress.*
+- *1. When expectations are displayed, the user can create personal progress markers related to those expectations.*
+- *2. Each progress marker can include a description and status.*
+- *3. The user can update the status of a progress marker.*
+- *4. The system shall display completed and incomplete progress markers separately.*
+- *5. The system shall not compare the user's progress markers with another user's progress.*
 
 ***4:** Provide personalized resources*
-*1. When a user identifies an expectation they do not understand or have not yet met, the program should display relevant resources when available.
-2. Resources may include educational materials, institutional information, guides, or other materials relevant to the user's environment.
-3. The system shall identify the source of each external resource.
-4. The system shall allow the user to access the original resource when available.
-5. If no relevant resource is found, the platform should indicate that no matching resource was found.*
+- *1. When a user identifies an expectation they do not understand or have not yet met, the program should display relevant resources when available.*
+- *2. Resources may include educational materials, institutional information, guides, or other materials relevant to the user's environment.*
+- *3. The system shall identify the source of each external resource.*
+- *4. The system shall allow the user to access the original resource when available.*
+- *5. If no relevant resource is found, the platform should indicate that no matching resource was found.*
 ***5:** Provide anonymous experiences*
-*1. When a user chooses to view other experiences, the platform should display anonymous experiences from users in relevant situations when available.
-2. The system shall organize experiences by relevant environment or situation based on the user's selection of environment. 
-3. The system shall not present another user's experience as evidence that the current user is meeting or failing to meet expectations.
-4. The user shall be able to choose whether to view other users' experiences.*
+- *1. When a user chooses to view other experiences, the platform should display anonymous experiences from users in relevant situations when available.*
+- *2. The system shall organize experiences by relevant environment or situation based on the user's selection of environment.*
+- *3. The system shall not present another user's experience as evidence that the current user is meeting or failing to meet expectations.*
+- *4. The user shall be able to choose whether to view other users' experiences.*
 ***6:** Benchmarking*
-1. *The program shall not display leaderboards or rankings of users.*
-2. *The program shall not calculate a user's rank relative to other users.*
-3. *When presenting information about other people's experiences, the program shall emphasize differences in experiences rather than rank users by performance.*
-4. *If benchmark information is provided, it shall describe environmental expectations or requirements rather than individual user rankings.*
+- *1. The program shall not display leaderboards or rankings of users.*
+- *2. The program shall not calculate a user's rank relative to other users.*
+- *3. When presenting information about other people's experiences, the program shall emphasize differences in experiences rather than rank users by performance.*
+- *4. If benchmark information is provided, it shall describe environmental expectations or requirements rather than individual user rankings.*
 
 ---
 
